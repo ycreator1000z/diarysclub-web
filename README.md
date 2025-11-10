@@ -1,6 +1,11 @@
 # Diarys Club - Official Website
 
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Active-success)
+![AdMob](https://img.shields.io/badge/AdMob-Verified-blue)
+
 Official website for [Diarys Club - AI 그림 일기](https://apps.apple.com/app/id6748906806) iOS app.
+
+> Last updated: November 10, 2025
 
 ## Purpose
 
